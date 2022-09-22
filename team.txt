@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-
-=======
 Louis
 Zachary
 James
->>>>>>> cc44fb8ee9df1d7f8976475a27cf67bfa86a852d
+
